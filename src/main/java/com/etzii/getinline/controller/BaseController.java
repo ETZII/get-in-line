@@ -1,4 +1,4 @@
-package controller;
+package com.etzii.getinline.controller;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;
